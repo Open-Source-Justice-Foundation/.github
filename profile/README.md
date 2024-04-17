@@ -40,4 +40,4 @@ Likewise, the Open Source Justice movement places the disputant's freedom above 
 
 This is a call to all developers, lawyers, entrepreneurs and other stakeholders interested in real access to justice to devise, build, and support new ODR and ADR systems consistent with the values of the FOSS movement.  
 
-Join the Open Source Justice movement today. 
+<a href="https://opensourcejustice.org">Join</a> the Open Source Justice movement today. 
